@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vmC5ZGnvcA3Dar5/OhtRJyishIUP4V5eHizbiZ2euyg=",
+  "Source": "OrangeTask.API",
+  "BasePath": "_content/OrangeTask.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

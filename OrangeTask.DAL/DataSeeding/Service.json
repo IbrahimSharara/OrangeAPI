@@ -1,0 +1,18 @@
+[
+  
+  {
+    "Name": "Red",
+    "Description": "Red Service.",
+    "Price": 100.00
+  },
+  {
+    "Name": "Orange",
+    "Description": "Orange Service.",
+    "Price": 45.00
+  },
+  {
+    "Name": "Yellow",
+    "Description": "Yellow Service.",
+    "Price": 200.00
+  }  
+]
